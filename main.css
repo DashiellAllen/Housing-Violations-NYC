@@ -1,0 +1,69 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	backgorund-color: gainsboro;
+}
+
+img {
+	display: block;
+	width: 47%;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption {
+	margin-left: 2%;
+	margin-top: 10px;
+	font-family: arial;
+	font-size: 10pt;
+}
+
+h3 {
+	font-family: arial;
+}
+
+.sub-heading {
+	font-style: italic;
+}
+
+.article {
+	font-family: Georgia;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.data {
+	background-color: white;
+	padding: 20px;
+	display: block;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+h1 {
+	display: block;
+	padding-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: arial;
+}
+
+@media(min-width: 681px) {
+
+.images {
+	display: flex;
+}
+}
+
+
+
+
+
+
+
