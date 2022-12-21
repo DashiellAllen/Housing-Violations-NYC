@@ -54,6 +54,11 @@ h1 {
 	font-family: arial;
 }
 
+h5 {
+	text-align: center;
+	font-family: arial;
+}
+
 @media(min-width: 681px) {
 
 .images {
